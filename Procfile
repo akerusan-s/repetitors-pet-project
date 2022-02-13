@@ -1,0 +1,1 @@
+web: python coolsite/manage.py runserver
