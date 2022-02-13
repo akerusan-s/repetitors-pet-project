@@ -1,2 +1,4 @@
 SQLAlchemy
 django
+gunicorn
+django_heroku

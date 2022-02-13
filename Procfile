@@ -1,1 +1,1 @@
-web: python coolsite/manage.py runserver
+web: gunicorn myproject.wsgi
